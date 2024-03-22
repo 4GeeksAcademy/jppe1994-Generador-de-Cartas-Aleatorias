@@ -1,1 +1,22 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.cartaCss {
+  height: auto;
+  font-size: 140px;
+}
+
+.simboloIco {
+  font-size: 150px;
+}
+#cartaGenerica {
+  box-shadow: 16px 14px 11px 6px;
+  padding: 3px 10px;
+
+  border-radius: 20px;
+}
+#symbol2 {
+  transform: rotate(180deg);
+}
+.red-suit {
+  color: red;
+}
